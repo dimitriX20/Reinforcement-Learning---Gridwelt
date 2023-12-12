@@ -29,6 +29,12 @@ pip install tensorflow==2.15 plotly numpy
 
 ## Anwendung 
 
+```bash
+python compare.py
+```
+
+## Beispiele 
+
 Optimale Politik für Q-Learning: Die optimale Politik wird in der Konsole als Richtungsmatrix dargestellt, zum Beispiel:
 ```bash
 → → → *
@@ -36,11 +42,5 @@ Optimale Politik für Q-Learning: Die optimale Politik wird in der Konsole als R
 ↑ → ↑ ←
 ```
 
-Vergleichsdiagramm: Ein Plotly-Diagramm, das die Belohnungen beider Methoden über die Episoden hinweg zeigt.
-```bash
-python compare.py
-```
-
-## Beispiele 
-
-![Vergleichsdiagramm](100episodes.png)
+Vergleichsdiagramm: Ein Plotly-Diagramm, das die Belohnungen beider Methoden über die Episoden hinweg zeigt:
+![Vergleichsdiagramm](100episodes.PNG)
