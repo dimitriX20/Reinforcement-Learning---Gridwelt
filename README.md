@@ -43,4 +43,4 @@ python compare.py
 
 ## Beispiele 
 
-![Vergleichsdiagramm](images/100episodes.png)
+![Vergleichsdiagramm](100episodes.png)
