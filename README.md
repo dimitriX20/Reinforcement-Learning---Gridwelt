@@ -35,7 +35,7 @@ python compare.py
 
 ## Beispiele 
 
-Optimale Politik für Q-Learning: Die optimale Politik wird in der Konsole als Richtungsmatrix dargestellt, zum Beispiel:
+Gelernte Politik für Q-Learning nach 100 Episoden: Die optimale Politik wird in der Konsole als Richtungsmatrix dargestellt, zum Beispiel:
 ```bash
 → → → *
 ↑ # ↑ *
