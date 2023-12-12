@@ -21,7 +21,7 @@ Dieses Projekt demonstriert den Vergleich zweier bekannter Reinforcement Learnin
 
 ## Installation
 
-Stellen Sie sicher, dass Sie Python und die erforderlichen Bibliotheken installiert haben. Um die benötigten Pakete zu installieren, führen Sie:
+Stellen Sie sicher, dass Sie Python installiert haben. Um die benötigten Pakete zu installieren, führen Sie:
 
 ```bash
 pip install tensorflow==2.15 plotly numpy
@@ -35,7 +35,7 @@ python compare.py
 
 ## Beispiele 
 
-Gelernte Politik für Q-Learning nach 100 Episoden: Die optimale Politik wird in der Konsole als Richtungsmatrix dargestellt, zum Beispiel:
+Gelernte Politik für Q-Learning nach 100 Episoden: Die gelernte Politik wird in der Konsole als Richtungsmatrix dargestellt, zum Beispiel:
 ```bash
 → → → *
 ↑ # ↑ *
